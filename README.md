@@ -9,7 +9,7 @@
     <main class="main">
         <section id="about" class="section">
             <h2>关于我们</h2>
-            <p>本课题组主要研究地球表层环境中铁-碳-磷多要素生物地球化学耦联循环，为揭示土壤特征元素全生命周期的生态效应提供理论支撑。研究成果以第一作者或通讯作者(含共一、共通) 发表在Environ Sci Tech，Geochim Cosmochim Ac，Environ Int，Eur J Soil Sci等国际权威杂志。</p>
+            <p>本课题组主要研究地球表层环境中铁-碳-磷多要素生物地球化学耦联循环，为揭示土壤特征元素全生命周期的生态效应提供理论支撑。研究成果以第一作者或通讯作者(含共一、共通) 发表在Environ Sci Tech，Geochim Cosmochim Ac，Environ Int，Eur J Soil Sci等国际权威杂志本实验室常年招收对土壤化学、地球化学、地质微生物学充满热情与好奇心的博士后，博士，硕士。欢迎对铁生物地球化学循环、磷生物地球化学循环、环境矿物-有机物-微生物互作机制、微生物铁成矿机理、磷素界面化学等方向感兴趣的优秀科研青年推免、报考本课题组硕士与博士研究生。欢迎博士后岗位申请，鼓励博士后从事独立研究，并全力协助博新计划、海博后等国家及地方人才项目申请！联系邮箱：wanbiao52@qq.com。</p>
         </section>
 
         <section id="research" class="section">
